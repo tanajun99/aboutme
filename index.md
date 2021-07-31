@@ -20,13 +20,13 @@ layout: about
     * Belongging at Department of Architecture for Intelligence in ISIR as a graduate research student.
     * Research Topic : Theory-guided Learning of Deep Model for Partial Differential Equations
 
-* **<span style="color: black; ">Rakuten.,Inc, Osaka, Japan (2015/08 ~ 2015/09)</span>**
+* [**<span style="color: black; ">Rakuten.,Inc, Osaka, Japan (2015/08 ~ 2015/09)</span>**][link4]
   * **Application Engineer Intern** : Rakuten Books Team
     * Implemented some business logic in the front-end part of Rakuten Books Dashboard with the team
     * Refactored and tested 500+ lines of Java code for better scalability.
     * Mainly used Java(JAX-RS, JUnit, Thymelearf, Marven, etc), HTML&CSS, MySQL and CentOS
 
-* **<span style="color: black; ">Cook+biz Co.,Ltd, Osaka, Japan (2015/09 ~ 2017/03)</span>**
+* [**<span style="color: black; ">Cook+biz Co.,Ltd, Osaka, Japan (2015/09 ~ 2017/03)</span>**][link5]
   * **Application Engineer** : Mobile Application Team
     * Designed and implemented two iOS applications for the food and beverage industry on the Department of Media Development.
     * Mainly used Swift(RxSwift), Xcode, and macOS
@@ -49,3 +49,7 @@ layout: about
 [link2]:https://www.sanken.osaka-u.ac.jp/en/
 
 [link3]:https://dena.ai/
+
+[link4]:https://books.rakuten.co.jp/
+
+[link5]:https://cookbiz.co.jp/
