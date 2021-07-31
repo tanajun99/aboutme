@@ -1,14 +1,13 @@
-theme: jekyll-theme-minimal# Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: Junya Tanaka
+baseurl: ""
+url: "https://tanajun99.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  name: Junya Tanaka | 田中潤也
+  desc: Master Student/Research Engineer
+  email: tanajun.99@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,13 +16,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: junya.tanaka.942
   flickr:
-  github: kssim
+  github: tanajun99
   google_plus:
-  instagram:
+  instagram: junyadidntwakeup
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/tanajun99/ 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +30,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: tanajun99
   vimeo:
   wordpress:
   youtube:
