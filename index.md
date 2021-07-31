@@ -21,6 +21,4 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+Junya
