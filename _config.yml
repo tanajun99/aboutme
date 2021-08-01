@@ -1,7 +1,7 @@
 title: Junya Tanaka
 baseurl: ""
 url: "https://tanajun99.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+google_analytics: "UA-60340700-2" # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
@@ -47,6 +47,7 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Permalinks
 permalink: /:year-:month-:day/:title
