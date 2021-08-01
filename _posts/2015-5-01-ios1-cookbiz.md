@@ -6,7 +6,7 @@ tech: "Swift"
 type: Other Project 
 ---
 
-# Discription
+## Discription
 
 * Cook+biz for Enterprise is the application for recruiters in the food and beverage industry.
 * I wrote so many lines of Swift code to develop iOS version with the application team.
